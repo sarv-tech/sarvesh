@@ -1,6 +1,5 @@
 # CS50P-Final-Project
 The Final Project of the CS50P online course  – the console version of the Wordle game
-# video demo : https://youtu.be/MLXgBGJtc1w?si=flgqC7uIDgPrac6J
 ## Description :
 This is a final project for HarvardX CS50P course ([CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)). This terminal version of the Wordle game was made by sarvesh pingale.
 
